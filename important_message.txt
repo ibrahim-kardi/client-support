@@ -4,7 +4,13 @@ Thanks for purchasing the theme.
 Please feel free to mail us if you face any problem.
 
 Please see the attachment
+==========================
+We are using Layer Slider as Bundle. We own Extended License but as per Envato license policy we can not distribute the key see https://help.market.envato.com/hc/en-us/articles/213762463-Bundled-Plugins
 
+This  plugin will work properly without  activation license key,  activation need only for auto update we release Theme update when this plugin update come.
+â€‹
+So, no need to update plugin, if you will update the theme then plugin will update automatically.
+â€‹====================
 Loco translate:
 https://www.youtube.com/watch?v=3Fohy96uSzY
 
@@ -471,7 +477,7 @@ Sorry 3rd party plugin integration not under free support
 See support 
 Item support includes:
 Availability of the author to answer questions
-Answering technical questions about item’s features
+Answering technical questions about itemÂ’s features
 
 
 
@@ -622,7 +628,7 @@ when user add this info in listing form map generate auto
 ?
 Item support includes:
 Availability of the author to answer questions
-Answering technical questions about item’s features
+Answering technical questions about itemÂ’s features
 Assistance with reported bugs and issues
 Help with included 3rd party assets
 However, item support does not include:
@@ -663,7 +669,7 @@ It is not included in our free support.
 Item support includes:
 
 *Availability of the author to answer questions
-*Answering technical questions about item’s features
+*Answering technical questions about itemÂ’s features
 *Assistance with reported bugs and issues
 *Help with included 3rd party assets
 
